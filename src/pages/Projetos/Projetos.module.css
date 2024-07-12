@@ -1,0 +1,17 @@
+.lista{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    gap: 2rem;
+    margin-block: 1rem;
+    
+}
+
+.projetos h1{
+    display: flex;
+    justify-content: center;
+    color: var(--primary);
+    
+}
